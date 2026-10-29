@@ -1,15 +1,10 @@
 PYTHON ACTIVITY-BASED LEARNING
 CASE STUDY INDEX
-University Name:
-Student Name:
-Roll Number:
-Branch:
-Section:
-Dr. RVR NRIIT DTBU
-P. Sneha Anusha
-26001173
-CSM
-Sec-05
+University Name: Dr. RVR NRIIT DTBU
+Student Name: P. Sneha Anusha
+Roll Number: 26001173
+Branch: CSM
+Section: Sec-05
 List of Case Studies
 1. Examination Result and Grace-Mark Validation
 2. University Scholarship Allocation
